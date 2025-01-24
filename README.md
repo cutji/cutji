@@ -1,6 +1,6 @@
 # Hi, I'm Cutji! 👋
 
-🎓 **Fresh Graduate** in **Computer Science** from **Politeknik Negeri Lhokseumawe** with a passion for **UI/UX Design** and **Quality Assurance**. Currently exploring opportunities in the tech industry, especially in **IT Tester** and **QA Automation** roles.
+🎓 **Fresh Graduate** in **Computer Science** from **Politeknik Negeri Lhokseumawe** with a passion for **UI/UX Design** and **Quality Assurance**. Currently exploring opportunities in the tech industry, especially in **IT Tester** and **QA Manual and Automation** roles.
 
 🌱 **Learning and growing** every day, I am passionate about **testing software**, **designing intuitive interfaces**, and contributing to building seamless user experiences.
 
